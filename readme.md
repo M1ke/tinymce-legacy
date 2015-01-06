@@ -3,6 +3,8 @@ tinymce-dist
 
 Production ready minified version of TinyMCE excluding the source code, build tools and unit tests. If you need the full source code go to the [main repository](//github.com/tinymce/tinymce) instead.
 
+Re-hosted on GitHub by M1ke to work with composer for installs with legacy requirements. Not added to packagist because there are newer versions that other people should use; install this with a `repositories` key.
+
 ## Tags
 
 Each release has it's own tag using the [semver standard](http://semver.org/). This means you can checkout a specific version using git clone.
